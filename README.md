@@ -62,3 +62,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# 🎧 Spotify Personal Dashboard - Laravel
+
+A web-based dashboard that integrates with the **Spotify Web API** to display personal music statistics in real-time. Built with **Laravel 8** and styled with **Tailwind CSS**.
+
+## 🚀 Features
+- **OAuth 2.0 Authentication**: Secure "Login with Spotify" integration.
+- **Top Tracks**: Displays your top 10 most played tracks.
+- **Recently Played**: Real-time history of your recently played songs with time-relative stamps.
+- **Responsive UI**: Modern dark-themed dashboard inspired by Spotify's design.
+
+## 🛠️ Tech Stack
+- **Framework**: Laravel 8
+- **Styling**: Tailwind CSS
+- **API**: Spotify Web API
+- **HTTP Client**: Guzzle / Laravel Http Client
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone [https://github.com/Mariaesprns/spotify-dashboard-laravel.git](https://github.com/Mariaesprns/spotify-dashboard-laravel.git)
